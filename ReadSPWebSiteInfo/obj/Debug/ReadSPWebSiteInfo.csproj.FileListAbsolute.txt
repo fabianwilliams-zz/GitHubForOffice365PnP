@@ -1,0 +1,17 @@
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\ReadSPWebSiteInfo.exe.config
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\ReadSPWebSiteInfo.exe
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\ReadSPWebSiteInfo.pdb
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Microsoft.IdentityModel.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\OfficeDevPnP.Core.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\System.Net.Http.Formatting.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\System.Web.Http.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\System.Net.Http.Formatting.xml
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\bin\Debug\System.Web.Http.xml
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\obj\Debug\ReadSPWebSiteInfo.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\obj\Debug\ReadSPWebSiteInfo.exe
+C:\TFS\Learning\Office365Nuget\ReadSPWebSiteInfo\ReadSPWebSiteInfo\obj\Debug\ReadSPWebSiteInfo.pdb
