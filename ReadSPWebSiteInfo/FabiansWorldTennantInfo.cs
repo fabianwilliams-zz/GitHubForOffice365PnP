@@ -35,19 +35,19 @@ namespace ReadSPWebSiteInfo
 
         public static string GetTennantUserName()
         {
-            pw = "!#%24ZCBxv";
+            pw = ""; //Enter your UserName here like Username@Site.Onmicrosoft.com
             return pw;
         }
 
         public static string GetTennantPassword()
         {
-            PrimaryUserName = "fg@fabiansworld.onmicrosoft.com";
+            PrimaryUserName = ""; //Enter your Password here
             return PrimaryUserName;
         }
 
         public static string GetMySite()
         {
-            PrimarySC = "https://fabiansworld.sharepoint.com";
+            PrimarySC = "https://adotoblab.sharepoint.com";
             return PrimarySC;
         }
     }

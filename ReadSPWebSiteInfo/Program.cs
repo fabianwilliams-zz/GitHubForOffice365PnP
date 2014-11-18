@@ -22,12 +22,13 @@ namespace ReadSPWebSiteInfo
                 //in this instance below consider mypw to be a any password but becasue it is real
                 //i am obscuring it from view as this is being viewed publcicly
                 var mypw = FabiansWorldTennantInfo.GetTennantPassword();
+                var myun = FabiansWorldTennantInfo.GetTennantUserName();
                 
                 var myPassword = new SecureString();
 
                 foreach (char c in mypw.ToCharArray()) myPassword.AppendChar(c);
                 ctx.Credentials = new SharePointOnlineCredentials
-                    ("fg@fabiansworld.onmicrosoft.com",myPassword);
+                    (myun,myPassword);
 
                 //Lets Read some Web Info to Prove this Out
                 Web currWeb = ctx.Web;
@@ -36,8 +37,9 @@ namespace ReadSPWebSiteInfo
                 ctx.Load(currWeb, w => w.Title, w => w.Description);
                 ctx.ExecuteQuery();
                 var mySiteTitle = currWeb.Title;
+                var mySiteDesc = currWeb.Description;
 
-                Console.WriteLine("My SharePoint Site Title on Fabians World is " + mySiteTitle);
+                Console.WriteLine("My SharePoint Site Title is " + mySiteTitle + " and Description is " + mySiteDesc);
                 Console.ReadLine();
                  
 
